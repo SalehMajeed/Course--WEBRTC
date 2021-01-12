@@ -35,10 +35,10 @@ NAT has several methods for translation ->
 4. Symmetric NAT ->  NAT send packets to destination to server if it exist in table along with by check both external and dest. port.
 ```
 
-![one-to-one](/one-to-one.png)
-![address-restricted](/address-restricted.png)
-![port-restricted](/port-restricted.png)
-![symmetric](/symmetric.png)
+![one-to-one](NAT/1.one-to-one.png)
+![address-restricted](NAT/2.address-restricted.png)
+![port-restricted](NAT/3.port-restricted.png)
+![symmetric](NAT/4.symmetric.png)
 
 ## Stun
 
@@ -52,5 +52,6 @@ NAT has several methods for translation ->
 
 > Interactive Connectivity Establishment is used to collect all the local,reflexive address, stun and turn to communicate but for the TURN case it collect public ip address for other it may establish communication directly.
 
-## SDP 
-> Session 
+## SDP
+
+> Session Description Protocol is a format that describe ICE Candidates,
