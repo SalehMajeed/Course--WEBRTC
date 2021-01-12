@@ -54,4 +54,12 @@ NAT has several methods for translation ->
 
 ## SDP
 
-> Session Description Protocol is a format that describe ICE Candidates,
+> The Session Description Protocol is a format for describing multimedia communication sessions. the SDP protocol is a declaration, by a media endpoint, of its receiving specifications and capabilities; a typical declaration would tell us:
+
+```
+. which IP Address is prepared to receive the incoming media stream
+. which port number is listening for the incoming media stream
+. what media type the endpoint is expecting to receive (typically audio)
+. which protocol the endpoint is expecting to exchange information in (typically RTP)
+. which compression encoding the endpoint is capable of decoding (codec)
+```
