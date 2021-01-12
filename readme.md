@@ -51,3 +51,6 @@ NAT has several methods for translation ->
 ## ICE
 
 > Interactive Connectivity Establishment is used to collect all the local,reflexive address, stun and turn to communicate but for the TURN case it collect public ip address for other it may establish communication directly.
+
+## SDP 
+> Session 
