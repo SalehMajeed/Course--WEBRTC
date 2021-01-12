@@ -63,3 +63,5 @@ NAT has several methods for translation ->
 . which protocol the endpoint is expecting to exchange information in (typically RTP)
 . which compression encoding the endpoint is capable of decoding (codec)
 ```
+## Signaling
+> Signaling is use to Send generated  SDP to the other party. in simple it is exchange of data between networks.
