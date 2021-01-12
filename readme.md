@@ -46,4 +46,4 @@ NAT has several methods for translation ->
 
 ## Turn
 
-> Traversal Using Relays around NAT 
+> Traversal Using Relays around NAT is a protocol that is used for traversal of symmetric method. it is expensive to maintain. it is a trusted server between two connections.
