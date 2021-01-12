@@ -47,3 +47,7 @@ NAT has several methods for translation ->
 ## Turn
 
 > Traversal Using Relays around NAT is a protocol that is used for traversal of symmetric method. it is expensive to maintain. it is a trusted server between two connections.
+
+## ICE
+
+> Interactive Connectivity Establishment is used to collect all the local,reflexive address, stun and turn to communicate but for the TURN case it collect public ip address for other it may establish communication directly.
